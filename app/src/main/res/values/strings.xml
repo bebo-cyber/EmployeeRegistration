@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ProjectAndroid - Employee Registration</string>
+
+    <!-- Employee Positions -->
+    <string name="tester">Tester</string>
+    <string name="number_bugs"># bugs</string>
+    <string name="manager">Manager</string>
+    <string name="number_clients"># clients</string>
+    <string name="programmer">Programmer</string>
+    <string name="number_projects"># projects</string>
+    <string name="chooseType">Choose a Type</string>
+    <string-array name="employees">
+        <item>@string/chooseType</item>
+        <item>@string/manager</item>
+        <item>@string/tester</item>
+        <item>@string/programmer</item>
+    </string-array>
+   
+    <!-- Colors -->
+    <string name="chooseColor">Choose a Color</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="pink">Pink</string>
+    <string name="brown">Brown</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="beige">Beige</string>
+
+    <string-array name="colors">
+        <item>@string/chooseColor</item>
+        <item>@string/red</item>
+        <item>@string/blue</item>
+        <item>@string/yellow</item>
+        <item>@string/green</item>
+        <item>@string/orange</item>
+        <item>@string/purple</item>
+        <item>@string/pink</item>
+        <item>@string/brown</item>
+        <item>@string/white</item>
+        <item>@string/black</item>
+        <item>@string/beige</item>
+    </string-array>
+
+    <!-- Strings for Layout -->
+    <string name="register">Register</string>
+    <string name="vehicle_color">Vehicle Color</string>
+    <string name="plate_number">Plate Number</string>
+    <string name="model">Model</string>
+    <string name="vehicle_model">Vehicle Model</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="side_car">Side Car</string>
+    <string name="car_type">Car Type</string>
+    <string name="motorbike">Motorbike</string>
+    <string name="car">Car</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="number">number</string>
+    <string name="sharp_number">#number</string>
+    <string name="employee_type">Employee Type</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="occupation_rate">Occupation Rate</string>
+    <string name="monthly_salary">Monthly Salary</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="employee_birth_year">Employee Birth Year</string>
+    <string name="last_name">Last Name</string>
+    <string name="employee_last_name">Employee Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="employee_fist_name">Employee Fist Name</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="add">ADD</string>
+    <string name="name">Name:</string>
+    <string name="id">Id:</string>
+
+</resources>
